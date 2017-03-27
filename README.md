@@ -1,5 +1,7 @@
-Resilio Sync
+Resilio Sync on Raspberry Pi 2&3
 ===============
+
+This is a fork of the official Resilio Sync Docker recipe!
 
 Sync uses peer-to-peer technology to provide fast, private file sharing for teams and individuals. By skipping the cloud, transfers can be significantly faster because files take the shortest path between devices. Sync does not store your information on servers in the cloud, avoiding cloud privacy concerns.
 
